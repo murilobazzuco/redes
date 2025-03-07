@@ -1,5 +1,6 @@
 const primeiroNumero = 1;
 const segundoNumero = 200;
-const terceiroNumero = 1000;
-const soma = primeiroNumero + segundoNumero + terceiroNumero;
-console.log(soma);
+var numeroTres = -9;
+const soma = primeiroNumero + segundoNumero;
+const subtracao = primeiroNumero - segundoNumero - numeroTres;
+console.log("Soma: ", soma, "Subtração: ", subtracao);
